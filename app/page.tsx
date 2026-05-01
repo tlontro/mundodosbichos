@@ -263,6 +263,8 @@ export default function Home() {
                         <img
                             src="/images/logo/mundo-dos-bichos.png"
                             alt="Logo Mundo dos Bichos"
+                            width="1254"
+                            height="1254"
                         />
                     </span>
                     <span>
