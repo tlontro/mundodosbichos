@@ -1,0 +1,9 @@
+:HL["/_next/static/chunks/0eb~zz1xx7nhe.css","style"]
+:HL["/images/logo/mundo-dos-bichos.png","image"]
+:HL["https://images.unsplash.com/photo-1593134257782-e89567b7718a?auto=format&fit=crop&w=1200&q=85","image"]
+:HL["https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=900&q=85","image"]
+:HL["https://images.unsplash.com/photo-1583337130417-3346a1be7dee?auto=format&fit=crop&w=900&q=85","image"]
+:HL["https://images.unsplash.com/photo-1601758063541-d2f50b4aafb2?auto=format&fit=crop&w=900&q=85","image"]
+:HL["https://images.unsplash.com/photo-1591946614720-90a587da4a36?auto=format&fit=crop&w=900&q=85","image"]
+:HL["https://images.unsplash.com/photo-1583512603805-3cc6b41f3edb?auto=format&fit=crop&w=900&q=85","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"TZ2J9OzHwyZvpD0bF80LP"}

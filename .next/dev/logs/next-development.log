@@ -1,0 +1,99 @@
+{"timestamp":"00:43:26.018","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:26.032","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:26.086","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:26.098","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:26.103","source":"Server","level":"ERROR","message":"[browser] \"Uncaught ReferenceError: galleryImages is not defined\\n    at Home (app/page.tsx:452:22)\\n  450 |\\n  451 |                 <div className=\\\"gallery-grid\\\">\\n> 452 |                     {galleryImages.map((image) => (\\n      |                      ^\\n  453 |                         <figure className=\\\"gallery-card\\\" key={image.src}>\\n  454 |                             <img src={image.src} alt={image.alt} />\\n  455 |                             <figcaption>{image.label}</figcaption>\""}
+{"timestamp":"00:43:26.103","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: galleryImages is not defined\n    at Home (app/page.tsx:452:22)\n  450 |\n  451 |                 <div className=\"gallery-grid\">\n> 452 |                     {galleryImages.map((image) => (\n      |                      ^\n  453 |                         <figure className=\"gallery-card\" key={image.src}>\n  454 |                             <img src={image.src} alt={image.alt} />\n  455 |                             <figcaption>{image.label}</figcaption>"}
+{"timestamp":"00:43:26.218","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:27.218","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:35.854","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:35.907","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:35.967","source":"Server","level":"ERROR","message":"⨯ ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:36.079","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:43:36.186","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:37.018","source":"Server","level":"ERROR","message":"[browser] \"Uncaught ReferenceError: galleryImages is not defined\\n    at Home (app/page.tsx:463:22)\\n  461 |\\n  462 |                 <div className=\\\"gallery-grid\\\">\\n> 463 |                     {galleryImages.map((image) => (\\n      |                      ^\\n  464 |                         <figure className=\\\"gallery-card\\\" key={image.src}>\\n  465 |                             <img src={image.src} alt={image.alt} />\\n  466 |                             <figcaption>{image.label}</figcaption>\""}
+{"timestamp":"00:43:37.018","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: galleryImages is not defined\n    at Home (app/page.tsx:463:22)\n  461 |\n  462 |                 <div className=\"gallery-grid\">\n> 463 |                     {galleryImages.map((image) => (\n      |                      ^\n  464 |                         <figure className=\"gallery-card\" key={image.src}>\n  465 |                             <img src={image.src} alt={image.alt} />\n  466 |                             <figcaption>{image.label}</figcaption>"}
+{"timestamp":"00:43:37.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:43:37.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: galleryImages is not defined"}
+{"timestamp":"00:44:04.915","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:45:50.194","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:46:01.516","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:46:11.269","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"00:46:19.253","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"00:46:27.146","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"00:47:23.573","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:48:09.047","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:48:48.234","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:49:15.062","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:50:52.675","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:51:07.191","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:51:17.634","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:51:28.861","source":"Server","level":"LOG","message":"✓ Compiled in 9ms"}
+{"timestamp":"00:51:38.959","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"00:52:57.549","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:53:21.830","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:53:53.284","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:54:11.384","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:01:11.288","source":"Server","level":"ERROR","message":"⨯ ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:11.302","source":"Server","level":"ERROR","message":"⨯ ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:11.331","source":"Server","level":"ERROR","message":"⨯ ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:11.337","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:11.341","source":"Server","level":"ERROR","message":"[browser] \"Uncaught ReferenceError: pricingPlaceholders is not defined\\n    at Home (app/page.tsx:509:26)\\n  507 |\\n  508 |                     <div className=\\\"pricing-list\\\" aria-label=\\\"Tabela de valores a confirm...\\n> 509 |                         {pricingPlaceholders.map((item) => (\\n      |                          ^\\n  510 |                             <div className=\\\"pricing-row\\\" key={item.service}>\\n  511 |                                 <span>{item.service}</span>\\n  512 |                                 <strong>{item.price}</strong>\""}
+{"timestamp":"01:01:11.341","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: pricingPlaceholders is not defined\n    at Home (app/page.tsx:509:26)\n  507 |\n  508 |                     <div className=\"pricing-list\" aria-label=\"Tabela de valores a confirm...\n> 509 |                         {pricingPlaceholders.map((item) => (\n      |                          ^\n  510 |                             <div className=\"pricing-row\" key={item.service}>\n  511 |                                 <span>{item.service}</span>\n  512 |                                 <strong>{item.price}</strong>"}
+{"timestamp":"01:01:11.419","source":"Server","level":"ERROR","message":"⨯ ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:11.469","source":"Server","level":"ERROR","message":"⨯ ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:12.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:12.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:12.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:12.220","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: pricingPlaceholders is not defined"}
+{"timestamp":"01:01:24.767","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:01:38.723","source":"Server","level":"LOG","message":"✓ Compiled in 16ms"}
+{"timestamp":"01:01:48.264","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"01:10:40.698","source":"Server","level":"LOG","message":"✓ Compiled in 28ms"}
+{"timestamp":"01:10:47.368","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"01:11:08.712","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"01:11:31.211","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"01:17:21.440","source":"Server","level":"LOG","message":"✓ Compiled in 13ms"}
+{"timestamp":"01:20:20.074","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"01:20:22.405","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"01:24:29.558","source":"Server","level":"LOG","message":"✓ Compiled in 9ms"}
+{"timestamp":"01:24:32.516","source":"Server","level":"LOG","message":"✓ Compiled in 9ms"}
+{"timestamp":"01:24:34.909","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"01:28:59.045","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"01:29:03.500","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"01:30:37.198","source":"Server","level":"ERROR","message":"⨯ ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:37.211","source":"Server","level":"ERROR","message":"⨯ ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:37.249","source":"Server","level":"ERROR","message":"⨯ ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:37.255","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:37.261","source":"Server","level":"ERROR","message":"[browser] \"Uncaught ReferenceError: beforeAfterCards is not defined\\n    at Home (app/page.tsx:454:22)\\n  452 |\\n  453 |                 <div className=\\\"before-after-grid\\\">\\n> 454 |                     {beforeAfterCards.map((card) => {\\n      |                      ^\\n  455 |                         const beforeImage = imageById(card.beforeId);\\n  456 |                         const afterImage = imageById(card.afterId);\\n  457 |\""}
+{"timestamp":"01:30:37.261","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: beforeAfterCards is not defined\n    at Home (app/page.tsx:454:22)\n  452 |\n  453 |                 <div className=\"before-after-grid\">\n> 454 |                     {beforeAfterCards.map((card) => {\n      |                      ^\n  455 |                         const beforeImage = imageById(card.beforeId);\n  456 |                         const afterImage = imageById(card.afterId);\n  457 |"}
+{"timestamp":"01:30:37.335","source":"Server","level":"ERROR","message":"⨯ ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:37.385","source":"Server","level":"ERROR","message":"⨯ ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:38.218","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:38.218","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:38.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:38.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: beforeAfterCards is not defined"}
+{"timestamp":"01:30:53.344","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:31:15.614","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"01:31:24.242","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"01:31:26.693","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"01:31:30.093","source":"Server","level":"LOG","message":"✓ Compiled in 14ms"}
+{"timestamp":"01:31:35.954","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
+{"timestamp":"01:32:42.567","source":"Server","level":"ERROR","message":"⨯ ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:42.582","source":"Server","level":"ERROR","message":"⨯ ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:42.664","source":"Server","level":"ERROR","message":"⨯ ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:42.703","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:42.731","source":"Server","level":"ERROR","message":"[browser] \"Uncaught ReferenceError: trustChips is not defined\\n    at Home (app/page.tsx:340:26)\\n  338 |\\n  339 |                     <div className=\\\"trust-chips\\\" aria-label=\\\"Diferenciais rápidos\\\">\\n> 340 |                         {trustChips.map((chip) => (\\n      |                          ^\\n  341 |                             <span key={chip}>{chip}</span>\\n  342 |                         ))}\\n  343 |                     </div>\""}
+{"timestamp":"01:32:42.732","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: trustChips is not defined\n    at Home (app/page.tsx:340:26)\n  338 |\n  339 |                     <div className=\"trust-chips\" aria-label=\"Diferenciais rápidos\">\n> 340 |                         {trustChips.map((chip) => (\n      |                          ^\n  341 |                             <span key={chip}>{chip}</span>\n  342 |                         ))}\n  343 |                     </div>"}
+{"timestamp":"01:32:42.811","source":"Server","level":"ERROR","message":"⨯ ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:42.844","source":"Server","level":"ERROR","message":"⨯ ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:43.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:43.219","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:43.220","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:43.221","source":"Browser","level":"ERROR","message":"uncaughtError: ReferenceError: trustChips is not defined"}
+{"timestamp":"01:32:54.057","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"01:33:07.197","source":"Server","level":"LOG","message":"✓ Compiled in 12ms"}
+{"timestamp":"01:33:19.964","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"01:34:11.562","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
+{"timestamp":"01:34:15.329","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"01:34:33.362","source":"Server","level":"LOG","message":"✓ Compiled in 11ms"}
